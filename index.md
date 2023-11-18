@@ -30,7 +30,7 @@ _with Jessie Trudeau (Syracuse University) and Juan Campos (UC Berkeley)_
 
 What motivates someone to join the police? While current scholarship has focused on desires for authority, to serve one's community and for financial and professional stability, we test how different conceptions of policing, access to different types of weapons and the possibility of using force contribute to motivation to enter the police force in countries of the Global South.
 
-[[pre-analysis plan(https://osf.io/registries/drafts/64e5520064f8200023bd70cb)]
+[[pre-analysis plan](https://osf.io/registries/drafts/64e5520064f8200023bd70cb)]
 
 #### Killings of police officers / Mortes de policiais
 

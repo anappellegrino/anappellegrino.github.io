@@ -1,6 +1,6 @@
 ## About / Sobre
 
-Ana Paula Pellegrino is a PhD Candidate at the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by [Fundação Estudar's Leaders](https://www.estudar.org.br/) program, the [Harry Frank Guggenheim Foundation's Emerging Scholars](https://www.hfg.org/2023-emerging-scholars/) program and the [US Institute of Peace](www.usip.org) and [Minerva Research Initiative's](https://minerva.defense.gov/) [Peace Scholar Fellowship](https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program) program. A Brazilian national, she holds a BA and an MA in International Relations and an MA in Data Science from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
+Ana Paula Pellegrino is a Ph.D. Candidate at the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by [Fundação Estudar's Leaders](https://www.estudar.org.br/) program, the [Harry Frank Guggenheim Foundation's Emerging Scholars](https://www.hfg.org/2023-emerging-scholars/) program and the [US Institute of Peace](www.usip.org) and [Minerva Research Initiative's](https://minerva.defense.gov/) [Peace Scholar Fellowship](https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program) program. A Brazilian national, she holds a BA and an MA in International Relations and an MA in Data Science from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
 
 Outside of academia, Ana Paula has worked in Brazilian civil society organizations conducting research and advocacy, developing technology and spearheading philanthropic strategies in organizations such as the [Igarapé Institute](https://igarape.org.br/), [ImpulsoGov](https://www.impulsogov.org/) and the [República Institute](https://republica.org/). She was a Fellow at Georgetown's Massive Data Institute, where she led the team who assembled the first iteration of the [Environmental Impact Data Collaborative](https://redivis.com/EIDC). She also organizes the [Violence, Instability and Peace Workshop](https://vip-workshop.github.io/), a feedback-focused virtual seminar series established in 2022.
 
@@ -13,9 +13,9 @@ _Fora da academia, Ana Paula trabalhou em organizações de sociedade civil bras
 
 ### Dissertation Project/Tese de Doutorado: The State that Forges Armed Criminal Groups (*in progress*)
 
-This is a book-length dissertation project that explores armed criminal group formation and interaction with police in Brazil. I conduct a cross-case comparison between Rio de Janeiro and São Paulo from the 1980s to 2000s, tracing the emergence of drug factions and police instutional development.
+This book-length dissertation project explores armed criminal group formation and interaction with police in Brazil. I conduct a cross-case comparison between Rio de Janeiro and São Paulo from the 1980s to 2000s, tracing the emergence of armed criminal groups and police instutional development. I have conducted over 2 years of fieldwork, during which I conducted dozens of interviews and collected thousands of administrative records. 
 
-_A tese doutoral explora a formação de grupos criminais no Brasil e seu impacto nas polícias. Comparo os casos do Rio de Janeiro e São Paulo nos anos 1980 a 2000s, traçando o surgimento de facções criminais e o desenvolvimento institucional das polícias nos dois estados._
+_A tese doutoral explora a formação de grupos criminais no Brasil e seu impacto nas polícias no Brasil. Comparo os casos do Rio de Janeiro e São Paulo nos anos 1980 a 2000s, traçando o surgimento de facções criminais e o desenvolvimento institucional das polícias nos dois estados._
 
 ### Peer-Reviewed Publications / Publicações Revisadas por Pares
 
@@ -24,21 +24,19 @@ _A tese doutoral explora a formação de grupos criminais no Brasil e seu impact
 
 ### Research in Progress
 
-#### Police Motivation / Motivação Policial
-
-_with Jessie Trudeau (Syracuse University) and Lucas Novaes(Insper)_
-
-What motivates someone to join the police? While current scholarship has focused on desires for authority, to serve one's community and for financial and professional stability, we test how different conceptions of policing, access to different types of weapons and the possibility of using force contribute to motivation to enter the police force in countries of the Global South.
-
 #### Killings of police officers / Mortes de policiais
 
-What happens when a police officer is killed? In this project, I analyze the impact of police officers killings on and off duty in Rio de Janeiro on civilian killings in the coming days.
+What happens when a police officer is killed? In this project, I analyze how police officers deaths in Rio de Janeiro impact police lethal violence in the following days. I find that police become more deadly, albeit not more active. Such effect is shaped by police officer schedules and local rememberance practices.
 
 #### International Wars, National Foes / Guerras internacionais, inimigos nacionais
 
-_with Laia Balcells (Georgetown University) and Matthew Simonson (Hebrew University)_
+_with Laia Balcells (Georgetown University) and Matthew Simonson (Hebrew University in Jerusalem)_
 
-How does international conflict impact perceptions and attitudes in third party countries? In this project, we use observational data and surveys to understand the impact of conflict beyonds those directly involved in the same conflict. 
+How does international conflict impact perceptions and attitudes in third party countries? In this series of papers, we use surveys to understand the impact of conflict among the population in countries beyonds those directly involved in the same conflict. More specifically, we also investigate how Israeli military action impacts antisemitic attitudes abroad.
+
+_with Laia Balcells (Georgetown University) and Benjamin Burnley (Georgetwon University)_
+
+How does international conflict impact political discourse in third party countries? We use social media posts in X(former twitter) by heads of government and a natural experiment design to investigate how the outbreak of war affects the level of nationalism leaders use in the public discourse. We analyze how this is shaped by the countries' alignement in the conflict, their economic relations to warring parties, geographic proximity to war and their recent history of conflict.
 
 ## Teaching/Ensino
 
@@ -47,10 +45,11 @@ How does international conflict impact perceptions and attitudes in third party 
 - GOVT 702 - Quantitative Methods II / Ph.D method sequence, Professor M Bailey, Spring 2021 & Spring 2022.
 
 #### Pontifical Catholic University of Rio de Janeiro, Minicourse Instructor / Instrutura de Minicurso
+- Quantitative Methods for the Social Sciences, Spring 2024.
 - Civil Society Diplomacy. Fall, 2017 and Spring, 2018. Best-evaluated minicourse in 2017.
 
 #### Pontifical Catholic University of Rio de Janeiro, Teaching Assistant / Assistente de Aula
-- Theoretical Foundations II / Professor C F P D S Gama. Fall, 2013
+- Theoretical Foundations of International Relations II / Professor C F P D S Gama. Fall, 2013
 - Violence and International Relations / Professor M Herz. Spring, 2014.
 
 

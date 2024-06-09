@@ -28,16 +28,6 @@ _A tese doutoral explora a formação de grupos criminais no Brasil e seu impact
 
 What happens when a police officer is killed? In this project, I analyze how police officers deaths in Rio de Janeiro impact police lethal violence in the following days. I find that police become more deadly, albeit not more active. Such effect is shaped by police officer schedules and local rememberance practices.
 
-#### International Wars, National Foes / Guerras internacionais, inimigos nacionais
-
-_with Laia Balcells (Georgetown University) and Matthew Simonson (Hebrew University in Jerusalem)_
-
-How does international conflict impact perceptions and attitudes in third party countries? In this series of papers, we use surveys to understand the impact of conflict among the population in countries beyonds those directly involved in the same conflict. More specifically, we also investigate how Israeli military action impacts antisemitic attitudes abroad.
-
-_with Laia Balcells (Georgetown University) and Benjamin Burnley (Georgetwon University)_
-
-How does international conflict impact political discourse in third party countries? We use social media posts in X(former twitter) by heads of government and a natural experiment design to investigate how the outbreak of war affects the level of nationalism leaders use in the public discourse. We analyze how this is shaped by the countries' alignement in the conflict, their economic relations to warring parties, geographic proximity to war and their recent history of conflict.
-
 ## Teaching/Ensino
 
 #### Georgetown University, Teaching Assistant / Assistente de Aula

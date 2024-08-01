@@ -6,7 +6,7 @@ She uses both quantitative and qualitative data and methods to study crime and v
 
 Outside of academia, Ana Paula has worked in Brazilian civil society organizations conducting research and advocacy, developing technology and spearheading philanthropic strategies in organizations such as the [Igarapé Institute](https://igarape.org.br/), [ImpulsoGov](https://www.impulsogov.org/) and the [República Institute](https://republica.org/). She also organizes the [Violence, Instability and Peace Workshop](https://vip-workshop.github.io/), a feedback-focused virtual seminar series established in 2022.
 
-## Research/Pesquisa
+## Research
 
 ### Dissertation Project: The Warrior's Paradox: The Rise of Parapolice Groups in Brazil  (*in progress*)
 

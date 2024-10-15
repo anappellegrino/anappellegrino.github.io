@@ -10,7 +10,7 @@ Outside of academia, Ana Paula has worked in Brazilian civil society organizatio
 
 ### Dissertation Project: The Warrior's Paradox: The Rise of Parapolice Groups in Brazil  (*in progress*)
 
-This book-length dissertation project explores armed criminal group formation and interaction with police in Brazil. I conduct a cross-case comparison between Rio de Janeiro and São Paulo from the 1980s to 2000s, tracing the emergence of armed criminal groups and police instutional development. I have conducted over 2 years of fieldwork, during which I conducted dozens of interviews and collected thousands of administrative records. 
+This book-length dissertation project explores armed criminal group formation and interaction with police in Brazil. I conduct a cross-case comparison between Rio de Janeiro and São Paulo from the 1980s to 2000s, tracing the emergence of armed criminal groups and police institutional development. I have conducted over 2 years of fieldwork, completing dozens of elite interviews, and collecting thousands of administrative records. 
 
 ### Peer-Reviewed Publications
 
@@ -48,7 +48,7 @@ What makes the public see armed groups as acceptable partners for peace instead 
 
 ## CV
 
-Please find my CV [here](https://drive.google.com/file/d/1Dux7VoeAapB7Ek3BmAwYR_8IwE5iA2zW/view?usp=sharing).
+Please find my CV [here](https://www.dropbox.com/scl/fi/kvej4s37o5orr5q88qlse/Pellegrino_CVSeptember2024.pdf?rlkey=73ygk4qmtibxe200blpajulq5&dl=0).
 
 ## Contact
 

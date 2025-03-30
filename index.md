@@ -1,8 +1,8 @@
 ## About
 
-Ana Paula Pellegrino is a Ph.D. Candidate at the Department of Government at Georgetown University. A Brazilian national, she holds a BA and an MA in International Relations and an MA in Data Science from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
+Ana Paula Pellegrino is a Ph.D. Candidate at the Department of Government at Georgetown University. A Brazilian national, she holds a BA and an MA in International Relations and an MA in Data Science from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). She is an incoming Assistant Professor at the School of Government at the Pontifical Catholic University of Chile, in Santiago, where she will begin in July 2026.
 
-She combines quantitative and qualitative data and methods to study criminal and political violence, with a particular interest in Latin America. Her research agenda includes projects on state and non-state armed actors, including police and criminal groups; micro-dynamics of violence; as well as war outcomes. In addition to support from Georgetown University, her research is supported by [Fundação Estudar's Leaders](https://www.estudar.org.br/) program, and the [Harry Frank Guggenheim Foundation's Emerging Scholars](https://www.hfg.org/2023-emerging-scholars/) program.
+She combines quantitative and qualitative data and methods to study criminal and political violence, with a particular interest in Latin America. Her research agenda includes projects on state and non-state armed actors, including police and criminal groups; micro-dynamics of violence; as well as war outcomes. In addition to support from Georgetown University, her research is funded by [Fundação Estudar's Leaders](https://www.estudar.org.br/) program, and the [Harry Frank Guggenheim Foundation's Emerging Scholars](https://www.hfg.org/2023-emerging-scholars/) program.
 
 Outside of academia, Ana Paula has worked in Brazilian civil society organizations conducting research and advocacy, developing technology and spearheading philanthropic strategies in organizations such as the [Igarapé Institute](https://igarape.org.br/), [ImpulsoGov](https://www.impulsogov.org/) and the [República Institute](https://republica.org/). She also organizes the [Violence, Instability and Peace Workshop](https://vip-workshop.github.io/), a feedback-focused virtual seminar series established in 2022.
 
@@ -10,7 +10,7 @@ Outside of academia, Ana Paula has worked in Brazilian civil society organizatio
 
 ### Dissertation Project: The Warrior's Paradox: The Rise of Parapolice Groups in Brazil  (*in progress*)
 
-This book-length dissertation project explores armed criminal group formation and interaction with police in Brazil. I conduct a cross-case comparison between Rio de Janeiro and São Paulo from the 1980s to 2000s, tracing the emergence of armed criminal groups and police institutional development. I have conducted over 2 years of fieldwork, completing dozens of elite interviews, and collecting thousands of administrative records. 
+This book-length dissertation project explores armed criminal group formation and interaction with police in Brazil. I conduct a cross-case comparison between Rio de Janeiro and São Paulo from the 1980s to 2000s, tracing the emergence of armed criminal groups and police institutional development. I have conducted over two years of fieldwork, completing dozens of elite interviews and collecting thousands of administrative records. 
 
 ### Peer-Reviewed Publications
 

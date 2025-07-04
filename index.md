@@ -1,16 +1,12 @@
 ## About
 
-Ana Paula Pellegrino is a Ph.D. Candidate in the Comparative Politics subfield at Georgetown University's Department of Government. She will be the Gerhard Casper Postdoctoral Fellow in Rule of Law at the Center on Democracy, Development and the Rule of Law (CDDRL) at the Freeman Spogli Institute for International Studies (FSI) at Stanford University for the 2025-26 academic year and is an incoming Assistant Professor at the School of Government at the Pontifical Catholic University of Chile, in Santiago, where she will begin in July 2026.
-
-Her work combines quantitative and qualitative data and methods to study criminal and political violence, with a particular interest in Latin America. Her research agenda includes projects on state and non-state armed actors, including police and criminal groups; micro-dynamics of violence; as well as war outcomes. In addition to support from Georgetown University, her research is funded by [Fundação Estudar's Leaders](https://www.estudar.org.br/) program, and the [Harry Frank Guggenheim Foundation's Emerging Scholars](https://www.hfg.org/2023-emerging-scholars/) program.
-
-Originally from Brazil, Ana Paula holds a BA and an MA in International Relations and an MA in Data Science from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). Outside of academia, she has worked in Brazilian civil society organizations conducting research and advocacy, developing technology and spearheading philanthropic strategies in organizations such as the [Igarapé Institute](https://igarape.org.br/), [ImpulsoGov](https://www.impulsogov.org/) and the [República Institute](https://republica.org/). She also organizes the [Violence, Instability and Peace Workshop](https://vip-workshop.github.io/), a feedback-focused virtual seminar series established in 2022.
+I am the incoming Gerhard Casper Postdoctoral Fellow in Rule of Law at the Center on Democracy, Development and the Rule of Law (CDDRL) at the Freeman Spogli Institute for International Studies (FSI) at Stanford University and incoming Assistant Professor at the School of Government at the Pontifical Catholic University of Chile, in Santiago, where I will begin in July 2026. I study criminal and political violence, with a geographic focus on Latin America. I am particularly interested in understanding armed actors, including police and armed groups, their attitudes and behaviors. My book project investigates why police form armed groups. I received my Ph.D. in Government at Georgetown University in the Comparative Government subfield in 2025. In addition to support from Georgetown University, my research has been supported by [Fundação Estudar's Leaders](https://www.estudar.org.br/) program, and the [Harry Frank Guggenheim Foundation's Emerging Scholars](https://www.hfg.org/2023-emerging-scholars/) initiative. 
 
 ## Research
 
-### Dissertation Project: The Warrior's Paradox: The Rise of Parapolice Groups in Brazil  (*in progress*)
+### Book Project: The Warrior's Paradox: The Rise of Parapolice Groups in Brazil  (*in progress*)
 
-This book-length dissertation project explores armed criminal group formation and interaction with police in Brazil. I conduct a cross-case comparison between Rio de Janeiro and São Paulo from the 1980s to 2000s, tracing the emergence of armed criminal groups and police institutional development. I have conducted over two years of fieldwork, completing dozens of elite interviews and collecting thousands of administrative records. 
+This project explores armed group formation and interaction with police in Brazil. I conduct a cross-case comparison between Rio de Janeiro and São Paulo from the 1980s to 2000s, tracing the emergence of armed criminal groups and police institutional development. I have conducted over two years of fieldwork, completing dozens of elite interviews and collecting thousands of administrative records. 
 
 ### Peer-Reviewed Publications
 
@@ -20,7 +16,7 @@ This book-length dissertation project explores armed criminal group formation an
 ### Working Papers
 
 #### Killings of police officers
-What happens when a police officer is killed? In this project, I analyze how police officers deaths in Rio de Janeiro impact police use of lethal violence in the following days. I find that police become more deadly, albeit not more active. Such effect is shaped by police officer schedules and local rememberance practices. [Working paper upon request] - _Presented at APSA 2023 and ISA 2024 (Under Review)_
+What happens when a police officer is killed? In this project, I analyze how police officers deaths in Rio de Janeiro impact police use of lethal violence in the following days. I find that police have become more deadly, albeit not more active. Such effect is shaped by police officer schedules and local remembrance practices. [Working paper upon request] - _Presented at APSA 2023 and ISA 2024 (Under Review)_
 
 #### International Wars, National Foes
 (with Laia Balcells and Matthew Simonson)
@@ -28,7 +24,7 @@ Can international armed conflicts exacerbate existing tensions in other regions?
 
 #### Armed Groups and Public Support for Peace
 (with Lesley-Ann Daniels and Laia Balcells)
-What makes the public see armed groups as acceptable partners for peace instead of targets of law enforcement or military action? We examine legitimacy as an important but underexplored factor in determining when the public accepts peace negotiations with an armed group and on what settlement terms. We unpack legitimacy into motivational, material and moral dimensions, which shape public perceptions through compliance with the social contract, institutional recognition, and ethical appraisal. A group’s legitimacy is informed by different characteristics and behaviors. We test this argument in a conjoint experiment embedded in a unique online survey of 2,100 respondents in Colombia. The findings will help inform public attitudes to negotiations with armed actors, which can help create a more accepted peace. [[Pre-analysis Plan]](https://osf.io/7sfkr). _Presented at ISA 2024_
+What makes the public see armed groups as acceptable partners for peace instead of targets of law enforcement or military action? We examine legitimacy as an important but underexplored factor in determining when the public accepts peace negotiations with an armed group and on what settlement terms. We unpack legitimacy into motivational, material, and moral dimensions, which shape public perceptions through compliance with the social contract, institutional recognition, and ethical appraisal. A group’s legitimacy is informed by different characteristics and behaviors. We test this argument in a conjoint experiment embedded in a unique online survey of 2,100 respondents in Colombia. The findings will help inform public attitudes to negotiations with armed actors, which can help create a more accepted peace. [[Pre-analysis Plan]](https://osf.io/7sfkr). _Presented at ISA 2024_
 
 ## Teaching
 

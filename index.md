@@ -17,7 +17,7 @@ In _Forming from Within_, I introduce the concept of police-led armed illicit gr
 
 #### Wars and Words
 (with Benjamin Burnley and Laia Balcells)
-Does the outbreak of a major international war change political discourse? Drawing on theories of political communication and elite cueing, identity salience, and threat perception, we hypothesize that the outbreak of a war of aggression by a major power increases the use of nationalist rhetoric by heads of government in other, non-belligerent, states. To test this hypothesis, we analyse over 10,000 tweets by heads of government from 130 countries before and after the Russian invasion of Ukraine in February 2022. [UNU-Wider Working Paper](https://www.wider.unu.edu/publication/between-wars-and-words-how-international-conflict-shapes-discourse-non-belligerent)
+Does the outbreak of a major international war change political discourse? Drawing on theories of political communication and elite cueing, identity salience, and threat perception, we hypothesize that the outbreak of a war of aggression by a major power increases the use of nationalist rhetoric by heads of government in other, non-belligerent, states. To test this hypothesis, we analyse over 10,000 tweets by heads of government from 130 countries before and after the Russian invasion of Ukraine in February 2022. [[UNU-Wider Working Paper]](https://www.wider.unu.edu/publication/between-wars-and-words-how-international-conflict-shapes-discourse-non-belligerent)
 
 #### Killings of police officers
 What happens when a police officer is killed? In this project, I analyze how police officers' deaths in Rio de Janeiro impact police use of lethal violence in the following days. I find that police have become more deadly, albeit not more active. Such an effect is shaped by police officer schedules and local remembrance practices. [Working paper upon request] - _Presented at APSA 2023 and ISA 2024_
@@ -29,7 +29,7 @@ Can international armed conflicts exacerbate existing tensions in other regions?
 #### Perceptions of the Russia/Ukraine Conflict
 (with Laia Balcells and Matthew Simonson)
 How do non-belligerent societies view the return of large-scale conflict to Europe? Among European countries, with their different historical ties to Russia and lived experiences of conflict, this article examines how the public in Bosnia and Herzegovina and Serbia—two former Yugoslav republics marked by war in the 1990s—perceives the 2022 Russian invasion of Ukraine and the war that is still ongoing as of May 2026. Prior to Russia’s 2022 invasion of Ukraine, the most recent large-scale wars in Europe took place in the western Balkans. How do citizens of these countries perceive this new war? Does it raise concerns of renewed conflict within their own borders? Using original survey data collected in the spring of 2024, we assess the reaction in each country to headlines from the Russia–Ukraine conflict. 
-[UNU Wider working paper](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2026-57-perceptions-Russia-Ukraine-war-Serbia-Bosnia-Herzegovina.pdf)
+[[UNU Wider Working Paper]](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2026-57-perceptions-Russia-Ukraine-war-Serbia-Bosnia-Herzegovina.pdf)
 
 #### Armed Groups and Public Support for Peace
 (with Lesley-Ann Daniels and Laia Balcells)

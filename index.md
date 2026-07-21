@@ -52,7 +52,7 @@ What makes the public see armed groups as acceptable partners for peace instead 
 
 ## CV
 
-Please find my CV [[UNU Wider Working Paper]](https://www.dropbox.com/scl/fi/uhzaga9q9s5qhmu8yfyih/Pellegrino_CV2026.pdf?rlkey=gv0921xbsg7rckfzxf1vkp22a&st=4i77gqon&dl=0).
+Please find my CV [here](https://www.dropbox.com/scl/fi/uhzaga9q9s5qhmu8yfyih/Pellegrino_CV2026.pdf?rlkey=gv0921xbsg7rckfzxf1vkp22a&st=4i77gqon&dl=0).
 
 ## Contact
 
